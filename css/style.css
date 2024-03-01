@@ -1,0 +1,224 @@
+.header1{
+    background-color: blue;
+}
+.logo{
+    padding-top: 10px;
+    /* padding: 30px; */
+    color: white;
+  height: 70px;
+    padding-left: 175px;
+    padding-bottom: 5px;
+}
+#hyp a{
+    color: white;
+    transform: none;
+    padding: 15px;
+    
+ }
+ #hyp{
+    padding-top: 20px;
+    padding-left: 100px;
+ }
+ .banner{
+    background-color: blue;
+    height: 600px;
+ }
+ .trad{
+    text-align: justify;
+    color: white;
+    font-weight: bolder;
+    padding-left: 170px;
+    padding-top: 150px;
+ }
+ .lore{
+    padding-left: 170px;
+    text-align: justify;
+    padding-top: 10px;
+    color: white;
+ }
+ .Reg{
+    height: 50px;
+    width: 150px;
+    margin-left: 170px;
+    margin-top: 20px;
+    color: white;
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+ }
+ .banner2{
+    
+    margin-bottom: 100px;
+ }
+ .special{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 80px;
+    border-bottom: 8px solid black;
+    height: 250px;
+ }
+ .banner3{
+    background-image: url(../images/common-bg.jpg);
+    height: 350px;
+    width: 1100px;
+    margin-top: 50px;
+    border-radius: 10px;
+ }
+ .buy{
+    color: white;
+    text-align: center;
+ }
+ .banner4{
+    padding-top: 30px;
+    padding-left: 50px;
+ }
+ .sell{
+    color: white;
+    text-align: center;
+ }
+ .banner5{
+    padding-top: 30px;
+    padding-left: 50px;
+ }
+ .invest{
+    color: white;
+    text-align: center;
+ }
+ .banner6{
+    padding-top: 30px;
+    padding-left: 50px;
+ }
+ .middle{
+    padding-top: 100px;
+ }
+ .banner7{
+    padding-left: 170px;
+ }
+ .footer{
+    font-weight: bolder;
+ }
+ .learn{
+    height: 50px;
+    width: 170px;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+ }
+ .footer2{
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 50px;
+    border-bottom: 8px solid black;
+    padding-bottom: 30px;
+ }
+ .footer3{
+    padding-top: 20px;
+    padding-bottom: 700px;
+    border-bottom: 8px solid black;
+ }
+ .pur{
+    text-align: center;
+ }
+ .purchase{
+   height: 50px;
+   border-radius: 8px;
+   width: 180px;
+   color: white;
+   background-color: greenyellow;
+   border: 1px solid greenyellow;
+   margin-left: 600px;
+ }
+ .footer4{
+    background-image: url(../images/common-bg.jpg);
+    height: 500px;
+    margin-left: 50px;
+    /* margin-right: 400px; */
+    margin-top: 50px;
+ }
+ .count{
+    padding-top: 40px;
+    padding-left: 100px;
+ }
+ .footer5{
+    padding-top: 90px;
+    width: 200px;
+ }
+ .smart{
+    font-weight: bolder;
+    color: white;
+ }
+ .amet{
+    font-weight: light;
+    color: white;
+ }
+ .footer6{
+    color: white;
+    font-weight: bolder;
+ }
+ .token{
+    height: 50px;
+   border-radius: 8px;
+   width: 180px;
+   color: white;
+   background-color: greenyellow;
+   border: 1px solid greenyellow;
+ }
+ .footer6{
+
+ }
+ #inp1{
+    height: 50px;
+    width: 300px;
+ }
+ #inp2{
+    height: 50px;
+    width: 300px;
+    margin-left: 20px;
+ }
+ #inp3{
+    height: 50px;
+    width: 300px;
+    margin-top: 20px;
+ }
+ #inp4{
+    height: 50px;
+    width: 300px;
+    margin-left: 20px;
+ }
+ .footer7{
+    padding-left: 350px;
+    padding-top: 80px;
+    padding-bottom: 70px;
+    border-bottom: 8px solid black;
+ }
+ #inp5{
+    padding-bottom: 100px;
+     height: 130px; 
+    width: 500px;
+ }
+ .footer8{
+    padding-top: 10px;
+    padding-left: 300px;
+ }
+ .send{
+    margin-top: 10px;
+    height: 40px;
+    width: 200px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: white;
+ }
+ .footer9{
+    margin-top: 300px;
+    background-image: url(../images/common-bg.jpg);
+    height: 400px;
+ }.footer10{
+    width: 1400px;
+    padding-left: 150px;
+    padding-top: 100px;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 300px;
+    margin-left: 100px;
+ }
